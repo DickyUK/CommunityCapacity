@@ -1,6 +1,6 @@
 ## Template for good practice
 
-## Craft based ideas that solve challenges for people and planet 
+## [The name for the good practice]
 
 ## Problem
 

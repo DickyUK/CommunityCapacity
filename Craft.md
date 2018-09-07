@@ -22,8 +22,7 @@ The solutions include:
 
 ## Evidence base
 
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ImSolVzdfhc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
-
+[![Brixton Remakery](http://img.youtube.com/vi/ImSolVzdfhc/0.jpg)](http://www.youtube.com/watch?v=ImSolVzdfhc "Remakery")
 ## Anecdotal and documented video evidence:
 remakery
 

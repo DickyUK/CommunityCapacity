@@ -35,13 +35,13 @@ remakery
 
 ## Organisations
 
-    *Brixton Remakery
-    *Chalk CIC
-    *Edingburgh Remade
-    *Fixperts
-    *Malvern Repair cafe
-    *REMAP
-    *Pass It On (OHPP)
-    *Urban Hacks
+* Brixton Remakery
+* Chalk CIC
+* Edingburgh Remade
+* Fixperts
+* Malvern Repair cafe
+* REMAP
+* Pass It On (OHPP)
+* Urban Hacks
 
 ## Links for further information

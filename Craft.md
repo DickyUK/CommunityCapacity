@@ -35,7 +35,7 @@ remakery
 
 ## Organisations
 
-* Brixton Remakery
+* [Brixton Remakery](https://remakery.org/)
 * Chalk CIC
 * Edingburgh Remade
 * Fixperts

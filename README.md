@@ -1,2 +1,2 @@
-# Community Capacity & Resilience
+# Community Capacity
 Building and sharing ideas for community capacity and resilience

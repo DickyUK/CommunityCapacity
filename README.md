@@ -1,5 +1,5 @@
 # Community Capacity
-Building and sharing ideas for community capacity and resilience
+Sharing ideas for building community capacity and resilience
 
 Suggested use of this site as follow:
 1. Review the good practice folder

@@ -7,3 +7,6 @@ Suggested use of this site as follow:
 3. Create an issue to discuss a topic around any of the examples
 4. Create a project to initiate any of the good practice examples
 5. Add other resources that may be useful such as designs, plans etc which the community can add to and improve
+
+You could start by taking a look at folder containing good practise
+https://github.com/DickyUK/CommunityCapacity/tree/master/Good_Practice

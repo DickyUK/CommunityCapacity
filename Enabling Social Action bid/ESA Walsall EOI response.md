@@ -57,7 +57,7 @@ Key actors include:
 At relevant stages of the initiative, we are expecting that all the parties above would be engaged in some form in the research.  The relationship however with the research team would be coordinated by the local athority lead.  
 
 ## 10. How does the SA initiative link to the council’s strategy for commissioning? 
-###How does this fit into the broader context of commissioning within the Local Authority? 
+### How does this fit into the broader context of commissioning within the Local Authority? 
 The commissioning intentions within Adult Services in the council underpin the current council corporate plan 2018-2021.  Our directorate [commissioning intentions are explained here in more detail](https://go.walsall.gov.uk/Portals/0/Uploads/SocialCare/Adult%20Social%20Care%20Directorate%20Plan%202017-%202018.pdf)
 ### Is there the likelihood of continued funding or other support for the project beyond the next 12 months?
 The project is expected to take 2-3 years in this stage of the initiative and is also a permanent element of the Walsall Together strategy which is the forum for the strategy and plans for integrated commissioning across the Sustainability Transformation Plans and the use of the Better Care Funds. 

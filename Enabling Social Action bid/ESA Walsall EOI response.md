@@ -58,7 +58,9 @@ At relevant stages of the initiative, we are expecting that all the parties abov
 
 ## 10. How does the SA initiative link to the council’s strategy for commissioning? 
 ### How does this fit into the broader context of commissioning within the Local Authority? 
-The commissioning intentions within Adult Services in the council underpin the current council corporate plan 2018-2021.  Our directorate [commissioning intentions are explained here in more detail](https://go.walsall.gov.uk/Portals/0/Uploads/SocialCare/Adult%20Social%20Care%20Directorate%20Plan%202017-%202018.pdf)
+The commissioning intentions within Adult Services in the council underpin the current council corporate plan 2018-2021.  Our directorate [commissioning intentions are explained here in more detail](https://go.walsall.gov.uk/Portals/0/Uploads/SocialCare/Adult%20Social%20Care%20Directorate%20Plan%202017-%202018.pdf).  Specifically, our vision within Adult Social Care is: 
+*"We   work with citizens and communities to promote health, wellbeing and independence and if people need additional support we work with partners to ensure that people can access high quality services which maximise independence and safety, and that respect the autonomy, dignity and diversity of the citizens of Walsall."*  
+Our social action initiative fits with the broader commissioning within the council because we are moving from traditional single commissions and silo working, to commissioning more strategically and across directorates.
 ### Is there the likelihood of continued funding or other support for the project beyond the next 12 months?
 The project is expected to take 2-3 years in this stage of the initiative and is also a permanent element of the Walsall Together strategy which is the forum for the strategy and plans for integrated commissioning across the Sustainability Transformation Plans and the use of the Better Care Funds. 
 

@@ -79,5 +79,5 @@ Building community capacity and resilience is a common challenge; the [Socail Ca
 ### You need to be clear both about what type of learning you are seeking in order to drive your initiative forward or to demonstrate its impact and why working with the research team might be the best way to achieve this? 
 
 
-Please submit your completed EoI by email to J.M.McNeill@sheffield.ac.uk
+Please submit your completed EoI by email to J.M.McNeill@sheffield.ac.uk by 11.59pm on 12th October 2018
 

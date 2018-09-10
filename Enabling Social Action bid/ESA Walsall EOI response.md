@@ -1,6 +1,6 @@
 # Section One - Your Details
 
-## 1. Local Authority Lead (Refer to the eligibility criteria to see who can lead the partnership).
+## 1. Local Authority Lead
 
 ## 2. Name of the proposed project 
 

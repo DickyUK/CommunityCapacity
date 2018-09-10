@@ -12,7 +12,9 @@
 
 ## What this repository is not
 * Whilst it can be used for and by the general public, this repository is for volunteers, professionals and citizens to co-create, co-design and co-produce outputs; it is not a mainstream communication channel
-* This repository is not an organisationally 'owned' hosted site or resource but rather a 'shared' community resource to help generate ideas through colloboration across diverse communities and parties. Github as a tool whilst predominantly used for hosted computer programming code projects is not exclusively used as such. Github is an under used 'free' colloborate tool that could help co-production in health and social care.
+* This repository is not an organisationally 'owned' hosted site or resource but rather a 'shared' community resource to help generate ideas through colloboration across diverse communities and parties. 
+* Github as a tool whilst predominantly used for hosted computer programming code projects **is not exclusively** used as such. 
+* Github is an under used *'free'* colloborate tool that could help co-production in health and social care.  [See the SCIE website for details on coproduction](https://www.scie.org.uk/publications/guides/guide51/).
 
 You could start by taking a look at folder containing good practise
 https://github.com/DickyUK/CommunityCapacity/tree/master/Good_Practice

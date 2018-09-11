@@ -3,6 +3,7 @@
 1. Sharing ideas for building community capacity and resilience (this is done in the **'wiki'** pages - see the wiki link above)
 2. To delevelop actual useful design or ideas locally for how things might work, ie. blueprints to your idea to share and develop with the community, project plans, workshops, events etc. (This is done in the **'Code'** - see the link above.  This sounds technical but it really isnt)
 
+*To get to the wiki or code on this project click the box in the above right 'View project on Github'.*
 ## Suggested use of this site:
 1. Review the good practice pages in the Wiki pages and propose your own to add to the library
 2. Create an **'Issue'** to discuss a topic around any of the good practice examples or to create an activity that you believe is needed to progress the aims
@@ -14,7 +15,7 @@
 * Whilst it can be used for and by the general public, this repository is for volunteers, professionals and citizens to co-create, co-design and co-produce outputs; it is not a mainstream communication channel however for any sector or organisation
 * This repository is not an organisationally 'owned' hosted site or resource but rather a 'shared' community resource to help generate ideas through colloboration across diverse communities and parties. 
 * Github as a tool whilst predominantly used for hosting computer programming code projects **is not exclusively** used as such. 
-* Github is an under-used *'free'* colloborative tool that could help generate greater co-production in health and social care.  [See the SCIE website for details on coproduction](https://www.scie.org.uk/publications/guides/guide51/).
+* Github is an under-used *'free'* colloborative tool that could help generate greater co-production in health and social care.  [See the SCIE website for details on coproduction](https://www.scie.org.uk/publications/guides/guide51/). Since this project is also about developing community capacity and resilience, you may also find [Enabling Social Action](https://www.gov.uk/government/publications/enabling-social-action-guidance) of interest.
 
 You could start by taking a look at folder containing good practise in the wiki
 https://github.com/DickyUK/CommunityCapacity/wiki

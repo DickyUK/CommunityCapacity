@@ -1,9 +1,11 @@
-# Community Capacity
+# Community Capacity & Resilience
 ## Purpose
 1. Sharing ideas for building community capacity and resilience (this is done in the **'wiki'** pages - see the wiki link above)
 2. To delevelop actual useful design or ideas locally for how things might work, ie. blueprints to your idea to share and develop with the community, project plans, workshops, events etc. (This is done in the **'Code'** - see the link above.  This sounds technical but it really isnt)
 
 *To get to the wiki or code on this project click the box in the above right 'View project on Github'.*
+
+Also feel free to add any ideas to a [community ideas wall](https://padlet.com/rcjhaynes/7bxcbagrx7o0) here.
 ## Suggested use of this site:
 1. Review the good practice pages in the Wiki pages and propose your own to add to the library
 2. Create an **'Issue'** to discuss a topic around any of the good practice examples or to create an activity that you believe is needed to progress the aims

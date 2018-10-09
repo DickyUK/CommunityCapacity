@@ -1,7 +1,7 @@
 # SECTION ONE - Your Details
 
 ## 1. Local Authority Lead
-Richard Haynes, Walsall Metropolitan Borough Council this is a trial
+Richard Haynes, Walsall Metropolitan Borough Council (this is a trial)
 
 ## 2. Name of the proposed project 
 Resilient Communities - A part of the well established Walsall Together Programme

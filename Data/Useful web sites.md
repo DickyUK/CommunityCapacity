@@ -1,3 +1,5 @@
 ## Web sites providing useful information under the theme building community capacity and resilience ##
 |WWW|Description|
-|https://www.hact.org.uk/communityinsight|Insight data on an areas from a housing perspective|
+|-------------------------------------------------------|:------------------------------------------------------------------------:|
+|https://www.hact.org.uk/communityinsight| Insight data on an areas from a housing perspective. Community Insight is an affordable, accessible geospatial tool that gives you insights into your local community. It enables housing associations and developers to understand their local communities, so they can maximise their local investments, for the benefit of your residents, your community, and your organisation. Community Insight has been developed by HACT and Oxford Consultants for Social Inclusion (OCSI).|
+|https://www.walsallintelligence.org.uk/|Walsall Insight, is a resource intended to provide a data-driven overview of the Walsall borough. Throughout this site you will be able to find a range of statistics, info graphics, publications & reports that aim to provide insight into Walsall. It will also feature critical pieces of ongoing work such as the Joint Strategic Needs Assessment, a repository of key Publications & Walsall Council's Transparency (Open Data) releases|
